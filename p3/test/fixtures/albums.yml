@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  kaufdatum: 2015-11-11
+  genre: MyString
+  band_id: 
+
+two:
+  title: MyString
+  kaufdatum: 2015-11-11
+  genre: MyString
+  band_id: 
